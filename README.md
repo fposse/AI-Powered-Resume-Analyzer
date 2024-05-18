@@ -25,7 +25,6 @@ Resume Analyzer AI" leverages the power of LLM and OpenAI as an advanced Streaml
 - LangChain
 - LLM
 - OpenAI
-- Selenium
 - Streamlit
 - Hugging Face
 - AWS
@@ -47,8 +46,6 @@ pip install langchain
 pip install openai
 pip install tiktoken
 pip install faiss-cpu
-pip install selenium
-```
 
 <br />
 
@@ -56,7 +53,7 @@ pip install selenium
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```https://github.com/gopiashokan/AI-Powered-Resume-Analyzer-and-LinkedIn-Scraper-with-Selenium.git```
+1. Clone the repository: ```https://github.com/fposse/AI-Powered-Resume-Analyzer.git```
 2. Install the required packages: ```pip install -r requirements.txt```
 3. Run the Streamlit app: ```streamlit run app.py```
 4. Access the app in your browser at ```http://localhost:8501```
@@ -93,17 +90,11 @@ To use this project, follow these steps:
 
 <br />
 
-🚀 **Streamlit application:** [https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI](https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI)
+🚀 **Streamlit application:** TODO: huggingfaces upload
 
 <br />
 
-**Selenium-Powered LinkedIn Data Scraping:**
-- Utilizing Selenium and a Webdriver automated test tool, this feature enables users to input job titles, automating the data scraping process from LinkedIn. The scraped data includes crucial details such as company names, job titles, locations, URLs, and comprehensive job descriptions.
-- This streamlined process enables users to easily review scraped job details and apply for positions, simplifying their job search and application experience.
-
-<br />
-
-🎥 **Project Demo Video:** [https://youtu.be/wFouWeK7NPg](https://youtu.be/wFouWeK7NPg)
+🎥 **Project Demo Video:** TODO demo video
 
 <br />
 
@@ -121,9 +112,9 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 **Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
+📧 Email: fernando.posse@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+🌐 LinkedIn: [linkedin.com/in/fernando-posse](https://www.linkedin.com/in/fernando-posse)
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
